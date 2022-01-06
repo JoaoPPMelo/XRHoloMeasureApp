@@ -1,0 +1,2 @@
+# XRHoloMeasureApp
+This application created by me during my internship period at Tractebel Engineering where you define a referential using Vuforia's Track Image, after having a referential you scan the environment using Scene Understanding from the MRTK library, from which you can make measurements and add objects in space using it. The application at the moment is focused on Hololens 2, and the data is saved on a server using an API that I created so that it is possible to both retrieve the data and do collaborative work.
